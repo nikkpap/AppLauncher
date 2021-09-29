@@ -2,10 +2,6 @@
 AppLauncher
 
 
-_________________
-App Launcher v1.0
-_________________
-
 -----------------------------------------------------------------------------------------
 App Launcher is an app shortcut manager to have all your favorites apps in one place...
 
