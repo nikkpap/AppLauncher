@@ -12,7 +12,7 @@ App Launcher is an app shortcut manager to have all your favorites apps in one p
 Copy paste your favorite shortcuts and name them Shortcut1 ~ 4 
 then  --> Edit conifg.ini file as you wish...
 
-**Attention to edite on the .ini file as the provided example
+**Attention** edit the .ini file as the provided example ONLY
 
 Thanks
 ------------------------------------------------------------------------------------------
